@@ -398,11 +398,6 @@ is1-ssl.mzstatic.com
 www.shazam.com
 beacon.shazam.com
 assets.shazam.com
-3dwarehouse.sketchup.com
-api.sketchup.com
-support.sketchup.com
-www.sketchup.com
-sketchup.com
 static.canva.com
 content-management-files.canva.com
 support.canva.com
