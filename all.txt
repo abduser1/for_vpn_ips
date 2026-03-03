@@ -434,7 +434,8 @@ ci.assets.shazam.com
 is1-ssl.mzstatic.com	
 js-cdn.music.apple.com	
 api.music.apple.com
-
+professionals.muuto.com
+muuto.com
 # =====================================================================
 # КОНЕЦ СПИСКА
 # =====================================================================
