@@ -442,6 +442,8 @@ sleeknotestaticcontent.sleeknote.com
 millerknoll-privacy.my.onetrust.com
 audience.ws.apsis.one
 ws.hotjar.com
+downloads.fritzhansen.com
+fritzhansen.com
 # =============
 
 # =====================================================================
