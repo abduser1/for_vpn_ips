@@ -444,6 +444,8 @@ audience.ws.apsis.one
 ws.hotjar.com
 downloads.fritzhansen.com
 fritzhansen.com
+cdn.jsdelivr.net
+d2cbqpmhv5w176.cloudfront.net
 # =============
 
 # =====================================================================
