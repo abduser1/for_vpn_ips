@@ -436,6 +436,8 @@ js-cdn.music.apple.com
 api.music.apple.com
 andreuworld.com
 claude.com
+www.cocoflip.com.au
+cocoflip.com.au
 # ==========professionals.muuto.com===
 professionals.muuto.com
 muuto.com
