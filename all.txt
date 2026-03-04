@@ -437,6 +437,7 @@ api.music.apple.com
 andreuworld.com
 claude.com
 www.cocoflip.com.au
+davisfurniture.com
 cocoflip.com.au
 # ==========professionals.muuto.com===
 professionals.muuto.com
