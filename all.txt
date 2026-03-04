@@ -427,13 +427,6 @@ i.ytimg.com
 static.discord.com
 www.discord.com
 www.canva.com
-www.shazam.com
-assets.shazam.com
-beacon.shazam.com
-ci.assets.shazam.com
-is1-ssl.mzstatic.com	
-js-cdn.music.apple.com	
-api.music.apple.com
 andreuworld.com
 claude.com
 www.cocoflip.com.au
@@ -452,7 +445,30 @@ fritzhansen.com
 cdn.jsdelivr.net
 d2cbqpmhv5w176.cloudfront.net
 # =============
-
+www.shazam.com
+assets.shazam.com
+beacon.shazam.com
+ci.assets.shazam.com
+is1-ssl.mzstatic.com	
+js-cdn.music.apple.com	
+api.music.apple.com
+shazam.com
+www.shazam.com
+v.shazam.com
+shazam.apple.com
+amp-api.music.apple.com
+amp-api-edge.music.apple.com
+is1-ssl.mzstatic.com
+is2-ssl.mzstatic.com
+is3-ssl.mzstatic.com
+is4-ssl.mzstatic.com
+is5-ssl.mzstatic.com
+aOD.itunes.apple.com
+itunes.apple.com
+gateway.icloud.com
+api.apple-cloudkit.com
+metrics.apple.com
+bag.itunes.apple.com
 # =====================================================================
 # КОНЕЦ СПИСКА
 # =====================================================================
