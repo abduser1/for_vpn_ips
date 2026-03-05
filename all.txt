@@ -369,6 +369,7 @@ audioprocessor.www.notion.so
 
 # Freepik
 freepik.com
+www.freepik.com
 cdn-front.freepik.com
 static.cdnpk.net
 id.freepik.com
@@ -382,7 +383,12 @@ sentry.freepik.com
 pikaso-data.freepik.com
 fps.cdnpk.net
 fpkph.cdnpk.net
-www.freepik.com
+b-static.cdnpk.net
+s1.cdnpk.net
+flaticon.com
+api.flaticon.com
+www.flaticon.com
+contributor.freepik.com
 
 # Autodesk / SketchUp / Canva / Rutracker и многие другие
 edutrial.autodesk.com
