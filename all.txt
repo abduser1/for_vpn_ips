@@ -442,6 +442,8 @@ www.basse-goulaine.fr
 basse-goulaine.fr
 www.archiweb.cz
 archiweb.cz
+www.finnishdesignshop.com
+finnishdesignshop.com
 # ==========professionals.muuto.com===
 professionals.muuto.com
 muuto.com
