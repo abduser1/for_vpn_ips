@@ -449,6 +449,7 @@ thelotradio.com
 brouter.de
 tile.openstreetmap.org
 openstreetmap.org
+matomo.openstreetmap.org
 # ==========professionals.muuto.com===
 professionals.muuto.com
 muuto.com
