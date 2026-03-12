@@ -447,6 +447,8 @@ finnishdesignshop.com
 www.thelotradio.com
 thelotradio.com
 brouter.de
+tile.openstreetmap.org
+openstreetmap.org
 # ==========professionals.muuto.com===
 professionals.muuto.com
 muuto.com
