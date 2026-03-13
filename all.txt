@@ -393,6 +393,7 @@ contributor.freepik.com
 # Autodesk / SketchUp / Canva / Rutracker и многие другие
 edutrial.autodesk.com
 autodesk.com
+dds.autodesk.com
 web.telegram.org
 server-side.goodtape.io
 goodtape.io
