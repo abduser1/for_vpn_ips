@@ -451,6 +451,11 @@ brouter.de
 tile.openstreetmap.org
 openstreetmap.org
 matomo.openstreetmap.org
+api.openstreetmap.org
+nominatim.openstreetmap.org
+82.199.86.102
+82.199.86.103
+82.199.86.104
 # ==========professionals.muuto.com===
 professionals.muuto.com
 muuto.com
