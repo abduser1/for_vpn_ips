@@ -508,6 +508,10 @@ bag.itunes.apple.com
 179.60.192.0/22
 185.60.216.0/22
 204.15.20.0/22
+www.facebook.com
+facebook.com
+instagram.com
+www.instagram.com
 #======================
 ezgif.com
 www.ezgif.com
