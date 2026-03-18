@@ -456,6 +456,8 @@ nominatim.openstreetmap.org
 82.199.86.102
 82.199.86.103
 82.199.86.104
+officesnapshots.com
+www.officesnapshots.com
 # ==========professionals.muuto.com===
 professionals.muuto.com
 muuto.com
