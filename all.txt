@@ -419,6 +419,15 @@ cadmapper.com
 www.cadmapper.com
 www.archiproducts.com
 archiproducts.com
+pg-edtr.archiproducts.com
+idb.iubenda.com
+cdn.iubenda.com
+cs.iubenda.com
+www.dwin1.com
+connect.facebook.net
+lantern.roeyecdn.com
+www.mainadv.com
+cdnjs.cloudflare.com
 cdn.jsdelivr.net
 td.telegram.org
 www.youtube.com
