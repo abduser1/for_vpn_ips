@@ -424,6 +424,8 @@ idb.iubenda.com
 cdn.iubenda.com
 cs.iubenda.com
 www.dwin1.com
+104.16.0.0/12
+172.64.0.0/13
 connect.facebook.net
 lantern.roeyecdn.com
 www.mainadv.com
