@@ -467,6 +467,9 @@ nominatim.openstreetmap.org
 82.199.86.104
 officesnapshots.com
 www.officesnapshots.com
+104.16.0.0/13
+104.24.0.0/14
+172.64.0.0/13
 plausible.io
 # ==========professionals.muuto.com===
 professionals.muuto.com
