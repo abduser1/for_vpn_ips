@@ -473,6 +473,7 @@ www.officesnapshots.com
 104.24.0.0/14
 172.64.0.0/13
 plausible.io
+public.kpfui.dev
 # ==========professionals.muuto.com===
 professionals.muuto.com
 muuto.com
