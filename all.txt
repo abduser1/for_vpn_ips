@@ -547,6 +547,9 @@ www.instagram.com
 #======================
 #apple
 17.0.0.0/8
+23.0.0.0/8
+104.64.0.0/10
+151.101.0.0/16
 www.shazam.com
 assets.shazam.com
 beacon.shazam.com
@@ -585,7 +588,6 @@ p14-buy.itunes.apple.com
 144.178.0.0/19
 # Akamai (очень важно)
 23.0.0.0/8
-104.64.0.0/10
 # Fastly (иногда Apple использует)
 151.101.0.0/16
 # Cloudflare (частично)
