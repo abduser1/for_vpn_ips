@@ -571,6 +571,13 @@ gateway.icloud.com
 api.apple-cloudkit.com
 metrics.apple.com
 bag.itunes.apple.com
+appstore.com
+apps.apple.com
+itunes.com
+gsa.apple.com
+buy.itunes.apple.com
+swscan.apple.com
+p14-buy.itunes.apple.com
 #=============
 ezgif.com
 www.ezgif.com
