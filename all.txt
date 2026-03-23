@@ -545,56 +545,6 @@ www.instagram.com
 31.13.72.0/24
 57.144.248.0/24
 #======================
-#apple
-17.0.0.0/8
-23.0.0.0/8
-104.64.0.0/10
-151.101.0.0/16
-www.shazam.com
-assets.shazam.com
-beacon.shazam.com
-ci.assets.shazam.com
-is1-ssl.mzstatic.com	
-js-cdn.music.apple.com	
-api.music.apple.com
-shazam.com
-www.shazam.com
-account.apple.com
-v.shazam.com
-shazam.apple.com
-amp-api.music.apple.com
-amp-api-edge.music.apple.com
-is1-ssl.mzstatic.com
-is2-ssl.mzstatic.com
-is3-ssl.mzstatic.com
-is4-ssl.mzstatic.com
-is5-ssl.mzstatic.com
-aOD.itunes.apple.com
-itunes.apple.com
-gateway.icloud.com
-api.apple-cloudkit.com
-metrics.apple.com
-bag.itunes.apple.com
-appstore.com
-apps.apple.com
-itunes.com
-gsa.apple.com
-buy.itunes.apple.com
-swscan.apple.com
-p14-buy.itunes.apple.com
-# Дополнительно (редко, но встречается)
-63.92.224.0/19
-65.199.22.0/23
-139.178.128.0/18
-144.178.0.0/19
-# Akamai (очень важно)
-23.0.0.0/8
-# Fastly (иногда Apple использует)
-151.101.0.0/16
-# Cloudflare (частично)
-104.16.0.0/12
-172.64.0.0/13
-#=============
 ezgif.com
 www.ezgif.com
 # =====================================================================
