@@ -546,9 +546,7 @@ www.instagram.com
 57.144.248.0/24
 #======================
 #apple
-17.248.0.0/13
-17.253.0.0/16
-17.254.0.0/16
+17.0.0.0/8
 www.shazam.com
 assets.shazam.com
 beacon.shazam.com
