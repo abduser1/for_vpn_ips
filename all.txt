@@ -227,6 +227,11 @@ td.telegram.org
 desktop.telegram.org
 web.telegram.org
 t.me
+zws1-1.web.telegram.org
+zws4-1.web.telegram.org
+zws2-1.web.telegram.org
+zws3-1.web.telegram.org
+telegram.me
 
 
 
