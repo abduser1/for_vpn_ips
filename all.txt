@@ -226,6 +226,7 @@
 td.telegram.org
 desktop.telegram.org
 web.telegram.org
+t.me
 
 
 
