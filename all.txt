@@ -225,6 +225,7 @@
 185.76.151.0/24
 td.telegram.org
 desktop.telegram.org
+web.telegram.org
 
 
 
