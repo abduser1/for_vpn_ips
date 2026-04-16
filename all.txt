@@ -429,8 +429,6 @@ support.canva.com
 rutracker.org
 static.rutracker.cc
 rutrk.org
-www.food4rhino.com
-food4rhino.com
 cdnjs.cloudflare.com
 use.fontawesome.com
 cadmapper.com
@@ -574,6 +572,15 @@ www.sedus.com
 sedus.com
 wikimapia.org
 www.wikimapia.org
+#=====rhino=====
+www.food4rhino.com
+food4rhino.com
+files.mcneel.com
+yak.rhino3d.com
+rhino3d.com
+104.26.10.0/24
+104.26.11.0/24
+172.67.75.0/24
 =====================================================================
 # КОНЕЦ СПИСКА
 # =====================================================================
