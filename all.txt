@@ -568,6 +568,10 @@ www.ezgif.com
 softlinefurniture.com
 mdd.eu
 www.mdd.eu
+assets.mdd.eu
+dev.mdd.eu
+#===mdd.eu ip's
+94.130.0.0/16
 www.sedus.com
 sedus.com
 wikimapia.org
