@@ -480,6 +480,8 @@ openstreetmap.org
 matomo.openstreetmap.org
 api.openstreetmap.org
 nominatim.openstreetmap.org
+overpass.openstreetmap.ru
+openstreetmap.ru
 overpass-api.de
 82.199.86.102
 82.199.86.103
