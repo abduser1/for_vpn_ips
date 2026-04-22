@@ -494,6 +494,7 @@ plausible.io
 public.kpfui.dev
 www.sketchuptextureclub.com
 sketchuptextureclub.com
+wireguard.com
 # ==========professionals.muuto.com===
 professionals.muuto.com
 muuto.com
