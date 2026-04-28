@@ -508,6 +508,7 @@ downloads.fritzhansen.com
 fritzhansen.com
 cdn.jsdelivr.net
 d2cbqpmhv5w176.cloudfront.net
+2050.coffee
 # META-whatsapp========================
 31.13.64.0/18
 57.144.0.0/14
