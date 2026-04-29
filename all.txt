@@ -407,6 +407,7 @@ flaticon.com
 api.flaticon.com
 www.flaticon.com
 contributor.freepik.com
+blastation.com
 
 # Autodesk / SketchUp / Canva / Rutracker и многие другие
 edutrial.autodesk.com
