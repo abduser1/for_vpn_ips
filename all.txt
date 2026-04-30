@@ -409,6 +409,7 @@ www.flaticon.com
 contributor.freepik.com
 blastation.com
 magnific.com
+api.magnific.com
 104.22.8.0/21
 172.67.31.0/24
 
