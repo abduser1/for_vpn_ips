@@ -410,11 +410,19 @@ contributor.freepik.com
 blastation.com
 magnific.com
 api.magnific.com
+ cdn.magnific.com
+ media.magnific.com 
 104.22.0.0/20
 172.67.31.0/24
 104.18.94.0/23
 172.64.150.0/23
 52.58.208.0/24
+23.48.0.0/19
+184.24.0.0/14
+92.19.0.0/16
+52.58.0.0/15
+18.192.0.0/13
+
 
 # Autodesk / SketchUp / Canva / Rutracker и многие другие
 edutrial.autodesk.com
