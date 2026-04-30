@@ -412,6 +412,9 @@ magnific.com
 api.magnific.com
 104.22.0.0/20
 172.67.31.0/24
+104.18.94.0/23
+172.64.150.0/23
+52.58.208.0/24
 
 # Autodesk / SketchUp / Canva / Rutracker и многие другие
 edutrial.autodesk.com
