@@ -606,6 +606,7 @@ www.intel.com
 downloadcenter.intel.com
 driverpack.intel.com
 signin.intel.com
+wwwfile.realtek.com
 =====================================================================
 # КОНЕЦ СПИСКА
 # =====================================================================
