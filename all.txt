@@ -235,8 +235,10 @@ zws4-1.web.telegram.org
 zws2-1.web.telegram.org
 zws3-1.web.telegram.org
 telegram.me
-
-
+# === Chaos ===
+accounts.chaos.com
+chaos.com
+my.chaos.com
 
 # === ChatGPT / OpenAI / Cloudflare связанные ===
 162.159.140.0/24
