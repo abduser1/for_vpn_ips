@@ -239,6 +239,21 @@ telegram.me
 accounts.chaos.com
 chaos.com
 my.chaos.com
+#====Linkedin===
+108.174.0.0/20
+144.2.0.0/19
+144.2.192.0/19
+144.2.128.0/18
+103.20.92.0/22
+199.101.160.0/22
+45.42.64.0/22
+linkedin.com
+licdn.com
+lnkd.in
+bizographics.com
+linkedinmobileapp.com
+slideshare.net
+
 
 # === ChatGPT / OpenAI / Cloudflare связанные ===
 162.159.140.0/24
