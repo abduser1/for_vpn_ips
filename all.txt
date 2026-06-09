@@ -253,6 +253,7 @@ lnkd.in
 bizographics.com
 linkedinmobileapp.com
 slideshare.net
+ru.linkedin.com
 
 
 # === ChatGPT / OpenAI / Cloudflare связанные ===
