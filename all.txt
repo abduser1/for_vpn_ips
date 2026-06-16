@@ -257,19 +257,29 @@ ssogateway.chaosgroup.com
 13.224.237.123
 
 #====Linkedin===
-108.174.0.0/20
-144.2.0.0/19
-144.2.192.0/19
-144.2.128.0/18
 103.20.92.0/22
+108.174.0.0/20
+144.2.0.0/16
+185.63.144.0/22
+185.154.80.0/22
 199.101.160.0/22
 45.42.64.0/22
 linkedin.com
+www.linkedin.com
+m.linkedin.com
+touch.www.linkedin.com
 licdn.com
+www.licdn.com
+static.licdn.com
+media.licdn.com
 lnkd.in
 bizographics.com
 linkedinmobileapp.com
+linkedinbusiness.net
+linkedin-ei.com
 slideshare.net
+www.slideshare.net
+slidesharecdn.com
 ru.linkedin.com
 
 
