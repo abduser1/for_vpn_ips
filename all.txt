@@ -668,6 +668,9 @@ downloadcenter.intel.com
 driverpack.intel.com
 signin.intel.com
 wwwfile.realtek.com
+#netgate
+forum.netgate.com
+netgate.com
 =====================================================================
 # КОНЕЦ СПИСКА
 # =====================================================================
