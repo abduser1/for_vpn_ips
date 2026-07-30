@@ -370,6 +370,18 @@ ru.linkedin.com
 3.96.0.0/14
 216.239.32.0/19
 148.153.121.178/32
+usa.installer.d5cdn.com
+dev.api.d5render.com
+usa.asset.d5cdn.com
+usa-asset-dev.s3.us-east-1.amazonaws.com
+usa.works.d5cdn.com
+usa-plugin.d5cdn.com
+usa.ai.d5render.com
+usa.ai.d5cdn.com
+usa-ai-usa.s3.us-east-1.amazonaws.com
+148.153.121.178
+ai.api.d5render.com
+
 
 # === Разное / Смешанные IP (Cloudflare, Azure, Google и т.д.) ===
 34.13.139.114
