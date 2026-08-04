@@ -531,6 +531,7 @@ cdn.jsdelivr.net
 d2cbqpmhv5w176.cloudfront.net
 2050.coffee
 # META-whatsapp========================
+157.240.252.0/23
 3.33.221.48/32
 3.33.252.61/32
 15.197.206.217/32
