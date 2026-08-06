@@ -262,23 +262,37 @@ slidesharecdn.com
 ru.linkedin.com
 
 
-# === ChatGPT / OpenAI / Cloudflare связанные ===
-162.159.140.0/24
-172.64.150.0/24
-104.18.37.0/24
-104.18.35.28/32
-104.18.41.241/32
-172.64.152.228/32
-172.64.146.15/32
-188.114.98.0/24
-188.114.99.0/24
-172.64.155.209/32
-104.18.39.85/32
-172.64.148.171/32
-172.64.155.214/32
-104.18.32.0/24
+# === ChatGPT / OpenAI Domains (Доменные имена для FQDN / IPset / DNS-based routing) ===
+openai.com
+chatgpt.com
+oaistatic.com
+oaiusercontent.com
+auth0.openai.com
+chatgpt.livekit.cloud
+featuregates.org
+statsigapi.net
+intercom.io
+intercomcdn.com
+
+# === OpenAI Direct IP Ranges (Собственные диапазоны OpenAI - AS398324 / AS31698) ===
+24.199.64.0/19
+13.107.42.0/24
+20.150.16.0/20
+
+# === Cloudflare Anycast IP Subnets (Используются OpenAI для CDN, API и защиты) ===
 8.6.112.0/24
 8.47.69.0/24
+104.16.0.0/13
+104.18.0.0/15
+108.162.192.0/18
+141.101.64.0/18
+162.159.0.0/16
+172.64.0.0/13
+188.114.96.0/20
+190.93.240.0/20
+197.234.240.0/22
+198.41.128.0/17
+
 
 # === YouTube / Google (основные диапазоны) ===
 64.18.0.0/20
