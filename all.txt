@@ -261,6 +261,7 @@ www.slideshare.net
 slidesharecdn.com
 ru.linkedin.com
 
+
 # === YouTube / Google (основные диапазоны) ==
 64.18.0.0/20
 64.233.160.0/19
@@ -590,6 +591,8 @@ netgate.com
 www.veeam.com
 veeam.com
 login.veeam.com
+acb.netgate.com
+netgate.com
 =====================================================================
 # КОНЕЦ СПИСКА
 # =====================================================================
