@@ -70,6 +70,8 @@ gemini.google.com
 104.196.0.0/14
 130.211.0.0/16
 146.148.0.0/17
+ai.google.dev
+aistudio.google.com
 
 # === ChatGPT / OpenAI Domains (Доменные имена для FQDN / IPset / DNS-based routing) ===
 openai.com
