@@ -88,6 +88,8 @@ featuregates.org
 statsigapi.net
 intercom.io
 intercomcdn.com
+acb.netgate.com
+netgate.com
 
 # === OpenAI Direct IP Ranges (Собственные диапазоны OpenAI - AS398324 / AS31698) ===
 24.199.64.0/19
