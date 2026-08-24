@@ -591,8 +591,6 @@ netgate.com
 www.veeam.com
 veeam.com
 login.veeam.com
-acb.netgate.com
-netgate.com
 docs.mikopbx.ru
 mikopbx.ru
 =====================================================================
