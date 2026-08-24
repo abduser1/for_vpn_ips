@@ -261,7 +261,6 @@ www.slideshare.net
 slidesharecdn.com
 ru.linkedin.com
 
-
 # === YouTube / Google (основные диапазоны) ==
 64.18.0.0/20
 64.233.160.0/19
@@ -591,8 +590,11 @@ netgate.com
 www.veeam.com
 veeam.com
 login.veeam.com
+<<<<<<< HEAD
 docs.mikopbx.ru
 mikopbx.ru
+=======
+>>>>>>> parent of a41b2a2 (netgate.com)
 =====================================================================
 # КОНЕЦ СПИСКА
 # =====================================================================
