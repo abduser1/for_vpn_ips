@@ -92,6 +92,7 @@ acb.netgate.com
 netgate.com
 docs.mikopbx.ru
 mikopbx.ru
+filescdn.miko.ru
 silentinstallhq.co
 # === OpenAI Direct IP Ranges (Собственные диапазоны OpenAI - AS398324 / AS31698) ===
 24.199.64.0/19
