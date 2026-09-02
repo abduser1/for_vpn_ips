@@ -590,6 +590,9 @@ login.veeam.com
 docs.mikopbx.ru
 mikopbx.ru
 silentinstallhq.com
+www.pedrali.com
+pedrali.com
+www.muuto.com
 =====================================================================
 # КОНЕЦ СПИСКА
 # =====================================================================
