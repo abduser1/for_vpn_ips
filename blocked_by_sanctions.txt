@@ -134,3 +134,4 @@ developer.api.autodesk.com
 api.autodesk.com
 profile.autodesk.com
 api.userprofile.autodesk.com
+help.autodesk.com
