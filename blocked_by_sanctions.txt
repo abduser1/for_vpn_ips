@@ -111,3 +111,8 @@ silentinstallhq.co
 190.93.240.0/20
 197.234.240.0/22
 198.41.128.0/17
+
+#autodesk
+edutrial.autodesk.com
+autodesk.com
+dds.autodesk.com
