@@ -234,7 +234,6 @@ zws4-1.web.telegram.org
 zws2-1.web.telegram.org
 zws3-1.web.telegram.org
 telegram.me
-web.telegram.org
 
 #====Linkedin===
 103.20.92.0/22
