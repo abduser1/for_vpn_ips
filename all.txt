@@ -234,6 +234,7 @@ zws4-1.web.telegram.org
 zws2-1.web.telegram.org
 zws3-1.web.telegram.org
 telegram.me
+web.telegram.org
 
 #====Linkedin===
 103.20.92.0/22
@@ -408,7 +409,6 @@ api.magnific.com
 
 
 # Autodesk / SketchUp / Canva / Rutracker и многие другие
-web.telegram.org
 server-side.goodtape.io
 goodtape.io
 app.goodtape.io
@@ -508,6 +508,7 @@ fritzhansen.com
 cdn.jsdelivr.net
 d2cbqpmhv5w176.cloudfront.net
 2050.coffee
+
 # META-whatsapp========================
 157.240.252.0/23
 3.33.221.48/32
