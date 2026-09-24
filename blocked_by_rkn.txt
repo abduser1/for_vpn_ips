@@ -155,3 +155,4 @@ www.youtube.com
 #onedrivere
 onedrive.live.com
 live.com
+app.phygital.plus
