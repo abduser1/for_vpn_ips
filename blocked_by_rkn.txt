@@ -156,6 +156,3 @@ www.youtube.com
 onedrive.live.com
 live.com
 
-#azure
-app.phygital.plus
-20.237.56.0/24
