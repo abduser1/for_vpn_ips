@@ -151,3 +151,6 @@ www.youtube.com
 213.61.91.48/29
 217.110.18.136/29
 217.110.194.192/29
+
+#onedrivere
+onedrive.live.com
