@@ -99,6 +99,7 @@ silentinstallhq.co
 24.199.64.0/19
 13.107.42.0/24
 20.150.16.0/20
+64.239.123.0/24
 
 # === Cloudflare Anycast IP Subnets (Используются OpenAI для CDN, API и защиты) ===
 8.6.112.0/24
