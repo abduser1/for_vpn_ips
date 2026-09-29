@@ -82,6 +82,7 @@ openai.com
 chatgpt.com
 oaistatic.com
 oaiusercontent.com
+learn.chatgpt.com
 auth0.openai.com
 chatgpt.livekit.cloud
 featuregates.org
