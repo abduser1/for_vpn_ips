@@ -127,4 +127,10 @@ www.youtube.com
 #onedrivere
 onedrive.live.com
 live.com
-
+13.107.136.0/22
+150.171.40.0/22
+storage.msn.com
+contentsync.onedrive.live.com
+www.onedrive.live.com
+storage.live.com
+livefilestore.com
