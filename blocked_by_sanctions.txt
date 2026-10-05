@@ -594,6 +594,7 @@ www.muuto.com
 download5.veeam.com
 wiresock.net
 plushalle.com
+abstracta.se
 
 #azure
 app.phygital.plus
