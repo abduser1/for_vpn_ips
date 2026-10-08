@@ -118,11 +118,7 @@ s.ytimg.com
 i.ytimg.com
 www.youtube.com
 
-#===Anydesk==
-62.96.74.120/29
-213.61.91.48/29
-217.110.18.136/29
-217.110.194.192/29
+
 
 #onedrivere
 onedrive.live.com
