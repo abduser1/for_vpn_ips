@@ -139,6 +139,17 @@ profile.autodesk.com
 api.userprofile.autodesk.com
 help.autodesk.com
 e768.g.akamaiedge.net
+assets.delivery.autodesk.com
+autoupdatesvc.delivery.autodesk.com
+clientstatesvc.delivery.autodesk.com
+compsvc.delivery.autodesk.com
+emsfs.autodesk.com
+manifest.delivery.autodesk.com
+up.autodesk.com
+update.delivery.autodesk.com
+updstsr.delivery.autodesk.com
+up1.autodesk.com
+download.autodesk.com"
 
 # === 3D Warehouse / SketchUp (AWS / CloudFront связанные подсети) ===
 # Большинство — Amazon AWS диапазоны, используемые SketchUp CDN
