@@ -149,7 +149,7 @@ up.autodesk.com
 update.delivery.autodesk.com
 updstsr.delivery.autodesk.com
 up1.autodesk.com
-download.autodesk.com"
+download.autodesk.com
 
 # === 3D Warehouse / SketchUp (AWS / CloudFront связанные подсети) ===
 # Большинство — Amazon AWS диапазоны, используемые SketchUp CDN
