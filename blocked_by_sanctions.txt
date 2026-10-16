@@ -150,24 +150,7 @@ update.delivery.autodesk.com
 updstsr.delivery.autodesk.com
 up1.autodesk.com
 download.autodesk.com
-23.12.157.229
-23.12.158.184
-e17686.dsca.akamaiedge.net
-104.18.2.134
-104.18.3.134
-3.210.28.212
-3.229.237.152
-32.195.194.119
-32.198.157.122
-32.198.217.176
-34.236.211.27
-34.236.93.10
-35.168.137.121
-50.19.149.92
-52.55.217.79
-52.55.31.139
-18.235.151.71
-184.194.121.21
+
 
 
 # === 3D Warehouse / SketchUp (AWS / CloudFront связанные подсети) ===
