@@ -121,6 +121,17 @@ ru.linkedin.com
 212.188.35.204/32
 213.221.56.14/32
 
+rr1---sn-jvhnu5g-n8vr.googlevideo.com
+rr2---sn-g5njvh-n8vl.googlevideo.com
+rr3---sn-g5njvh-n8vl.googlevideo.com
+rr3---sn-8ph2xajvh-axql.googlevideo.com
+rr3---sn-u15hn5-5m.googlevideo.com
+rr4---sn-ixh7yn7e.googlevideo.com
+rr4---sn-jvhnu5g-n8ve7.googlevideo.com
+rr5---sn-ixh7rn76.googlevideo.com
+rr5---sn-ixh7yn7e.googlevideo.com
+rr7---sn-jvhnu5g-n8vr.googlevideo.com
+
 m.youtube.com
 youtu.be
 youtube-nocookie.com
