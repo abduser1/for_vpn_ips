@@ -118,6 +118,8 @@ ru.linkedin.com
 #youtube-ru
 81.27.242.0/24
 212.188.37.0/24
+212.188.35.204/32
+213.221.56.14/32
 
 m.youtube.com
 youtu.be
