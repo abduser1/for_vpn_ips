@@ -118,7 +118,7 @@ ru.linkedin.com
 #youtube-ru
 81.27.242.0/24
 212.188.37.0/24
-212.188.35.204/32
+212.188.35.0/24
 213.221.56.14/32
 rr4---sn-aj5goc-5x.googlevideo.com
 rr5---sn-ixh7rn76.googlevideo.com
