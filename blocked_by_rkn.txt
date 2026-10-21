@@ -155,6 +155,7 @@ rr5---sn-vgqsrnlk.googlevideo.com
 rr1---sn-ixh7rn76.googlevideo.com
 rr5.sn-jvhnu5g-n8vr.googlevideo.com
 rr4---sn-u15hn5-c5.googlevideo.com
+rr2---sn-aj4g55-52.googlevideo.com
 
 m.youtube.com
 youtu.be
