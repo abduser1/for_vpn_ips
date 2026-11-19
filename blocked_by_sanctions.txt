@@ -506,6 +506,7 @@ api.flaticon.com
 www.flaticon.com
 contributor.freepik.com
 blastation.com
+id.magnific.com
 magnific.com
 api.magnific.com
  cdn.magnific.com
