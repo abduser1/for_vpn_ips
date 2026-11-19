@@ -508,7 +508,11 @@ id.magnific.com
 magnific.com
 api.magnific.com
 cdn.magnific.com
-media.magnific.com 
+media.magnific.com
+api.freepikcompany.com
+id.freepikcompany.com
+auth.magnific.com
+challenges.cloudflare.com
 104.18.94.0/23
 172.64.150.0/23
 52.58.208.0/24
@@ -545,6 +549,11 @@ usa.ai.d5cdn.com
 usa-ai-usa.s3.us-east-1.amazonaws.com
 148.153.121.178
 ai.api.d5render.com
+
+#====AWS eu-central-1
+3.64.0.0/12
+18.156.0.0/14
+52.28.0.0/15
 
 
 # === Разное / Смешанные IP (Cloudflare, Azure, Google и т.д.) ===
