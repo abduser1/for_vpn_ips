@@ -489,6 +489,7 @@ api.freepikcompany.com
 id.freepikcompany.com
 auth.magnific.com
 challenges.cloudflare.com
+80.239.138.0/24
 23.48.0.0/19
 184.24.0.0/14
 92.19.0.0/16
