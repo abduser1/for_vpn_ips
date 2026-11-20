@@ -482,6 +482,7 @@ contributor.freepik.com
 blastation.com
 id.magnific.com
 magnific.com
+23.72.0.0/13
 api.magnific.com
 cdn.magnific.com
 media.magnific.com
